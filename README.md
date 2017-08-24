@@ -39,4 +39,11 @@ Un effort de présentation sera demandé sur le dossier.
 **10) Affichez la différence entre la somme des populations listée dans les villes par rapport à la population annoncée dans le pays**  
 
 Le dossier est à réaliser individuellement, vous pouvez faire des recherches librement mais ne pouvez pas vous entraidez. Vous avez 2 heures pour réaliser cet examen.  
+
+Selon le react, il vous est demandé que : 
+
+- Les traitements relatifs aux manipulations des données répondent aux fonctionnalités décrites dans le dossier de traitement technique.
+- Un test unitaire esst associé à chaque composant.
+- Le code source des composants est documenté.
+
 Bon courage. 
