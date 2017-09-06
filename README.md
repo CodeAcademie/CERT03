@@ -46,4 +46,6 @@ Selon le REAC, il vous est demandé que :
 - Les traitements relatifs aux manipulations des données répondent aux fonctionnalités décrites dans le dossier de traitement technique.
 - Le code source des composants est documenté.
 
+Ce dossier sera à communiquer dans le temps imparti à l'adresse mail suivante : codeacademie@fondationface.org.
+
 Bon courage. 
