@@ -39,7 +39,7 @@ Un effort de présentation sera demandé sur le dossier.
 
 **11) Affichez la différence entre la somme des populations listée dans les villes par rapport à la population annoncée dans le pays**  
 
-Le dossier est à réaliser individuellement, vous pouvez faire des recherches librement mais ne pouvez pas vous entraider. Vous avez 3 heures pour réaliser cet examen.  
+Le dossier est à réaliser individuellement, vous pouvez faire des recherches librement mais ne pouvez pas vous entraider. Vous avez 3 heures 30 minutes pour réaliser cet examen.  
 
 Selon le REAC, il vous est demandé que : 
 
